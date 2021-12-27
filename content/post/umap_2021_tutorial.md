@@ -12,4 +12,4 @@ authors:
 categories:
 - tutorials
 ---
-Christine Bauer will hold a tutorial on Multi-Method Evaluation of Adaptive Systems at UMAP 2021. UMAP – including the tutorial – will be held fully online.
+Christine Bauer will hold a tutorial on <a href="https://www.um.org/umap2021/program/tutorials#T02">Multi-Method Evaluation of Adaptive Systems</a> at UMAP 2021. UMAP – including the tutorial – will be held fully online.
