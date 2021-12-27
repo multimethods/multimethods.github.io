@@ -19,5 +19,5 @@ Her research and teaching activities are driven by her interdisciplinary backgro
 She has authored more than 100 papers in refereed journals and conference proceedings, and holds several best paper awards as well as awards for her reviewing activities.
 
 ## Eva Zangerle
-![Photo of Eva Zangerle](ez.jpg#floatleft "Eva Zangerle")
+![Photo of Eva Zangerle](ez.jpg "Eva Zangerle")
 Eva Zangerle is an Assistant Professor at the University of Innsbruck at the research group for Databases and Information Systems (Department of Computer Science). She earned her master’s degree in Computer Science at the University of Innsbruck and subsequently pursued her Ph.D. from the University of Innsbruck in the field of recommender systems for collaborative social media platforms. Her main research interests are within the fields of music recommender systems, social media analysis and information retrieval. Over the last years, she has combined these three fields of research and investigated context-aware music recommender systems based on data retrieved from social media platforms aiming to exploit new sources of information for recommender systems. She was awarded a Postdoctoral Fellowship for Overseas Researchers from the Japan Society for the Promotion of Science allowing her to make a short-term research stay at the Ritsumeikan University in Kyoto.
