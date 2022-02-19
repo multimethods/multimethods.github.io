@@ -2,25 +2,20 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 type: publication
 
-title: "UMAP 2018 Intelligent User-Adapted Interfaces: Design and Multi-Modal Evaluation\
-  \ (IUadaptMe) Workshop Chairs' Welcome & Organization"
+title: Report on the 1st Workshop on the Perspectives on the Evaluation of Recommender Systems (PERSPECTIVES 2021) at RecSys 2021
 subtitle: ''
 summary: ''
 authors:
-- Ilknur Celik
-- Ilaria Torre
-- Frosina Koceva
-- Christine Bauer
 - Eva Zangerle
-- Bart Knijnenburg
+- Christine Bauer
+- Alan Said
 tags: []
 categories: []
-date: 2018-07-08
-lastmod: 2021-08-08T03:11:14+02:00
+date: '2021-12-01'
+lastmod: 2022-02-03T03:11:11+02:00
 featured: false
 draft: false
 profile: false
-
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -36,10 +31,10 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-08-08T01:13:49.106428Z'
+publishDate: '2021-12-01T01:13:45.839142Z'
 publication_types:
 - '1'
-abstract: ''
-publication: '*26th Conference on User Modeling, Adaptation and Personalization*'
-doi: 10.1145/3213586.3226202
+abstract: 'Evaluation is a central step when it comes to developing, optimizing, and deploying recommender systems. The PERSPECTIVES 2021 workshop at the 15th ACM Conference on Recommender Systems brought together academia and industry to critically reflect on the evaluation of recommender systems. The primary goal of the workshop was to capture the current state of evaluation from different, and maybe even diverging or contradictory perspectives.'
+publication: '*SIGIR Forum*'
+#doi: 
 ---

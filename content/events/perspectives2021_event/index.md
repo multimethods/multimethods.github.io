@@ -39,7 +39,7 @@ all_day: true
 # Schedule page publish date (NOT talk date).
 publishDate: "2021-09-25T00:00:00Z"
 
-authors: []
+authors: [Eva Zangerle, Christine Bauer, Alain Said]
 tags: [workshop, recsys, evaluation]
 
 # Is this a featured talk? (true/false)
@@ -75,3 +75,8 @@ url_proceedings: "http://ceur-ws.org/Vol-2955/"
 #projects:
 #- internal-project
 ---
+
+
+{{< gallery album="perspectives2021" >}}
+<br>
+{{< cite page="zangerle-2021-perspectives" view="4" >}}
