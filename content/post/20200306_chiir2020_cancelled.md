@@ -6,8 +6,9 @@ summary:
 authors:
 - Christine Bauer 
 
-# tags:
-# - tutorial
+tags:
+- tutorial
+- CHIIR
 
 categories:
 - tutorials
