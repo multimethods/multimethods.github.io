@@ -8,7 +8,7 @@ active: true
 title: About
 subtitle: ""
 
-content:
+design:
   columns: "2"
  
 ---
