@@ -46,19 +46,27 @@ div.box-note > div:first-child::before {
 .article-style aside,
 .box-cv {
   color: #12537e;
-  background-color: #f7f7f7;
-  border-color: #1976d2;
-  border-radius: 10px;
-  padding: 0.1rem; /* Use larger paragraph spacing than usual. */
+  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.04);
+  background-color: #E8E9EB;
+  border: 1px solid #44475a;
+  border-radius: 8px;
   margin-bottom: 1.2rem;
+}
 
+.box-cv h2 {
+  color: #12537e;
 }
 
 
 /* ************** */
 
+/* similar to card dark */
+
 .pub-list-item {
-  background-color: #f7f7f7;
-  padding: 0.8rem;
-  padding-bottom: 0.1rem; /* Use smaller paragraph spacing than usual. */
+  background: #282a36;
+  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.04);
+  border: 1px solid #44475a;
+  border-radius: 3px;
+  margin-top: 20px;
+  padding: 15px 20px; 
 }
