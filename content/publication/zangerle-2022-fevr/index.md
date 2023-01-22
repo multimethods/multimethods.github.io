@@ -11,7 +11,7 @@ authors:
 tags: [evaluation, recommender systems, FEVR, survey]
 categories: []
 date: '2022-08-19'
-lastmod: 2022-08-21T03:11:11+02:00
+lastmod: 2023-01-22T03:11:11+02:00
 featured: false
 draft: false
 profile: false
@@ -29,7 +29,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: [multimethod]
+projects: []
 publishDate: '2022-08-19T01:13:45.839142Z'
 publication_types:
 - '2'
