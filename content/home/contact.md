@@ -14,9 +14,10 @@ title = "Contact"
 +++
 
 Dr. Christine Bauer\
-Utrecht University\
-Department of Information and Computing Sciences\
-c.bauer\@uu.nl\
+University of Salzburg\
+Faculty of Digital and Analytical Sciences\
+Department of Artificial Intelligence and Human Interfaces\
+christine.bauer\@plus.ac.atl\
 https://christinebauer.eu/
 
 
