@@ -17,7 +17,7 @@ Dr. Christine Bauer\
 University of Salzburg\
 Faculty of Digital and Analytical Sciences\
 Department of Artificial Intelligence and Human Interfaces\
-christine.bauer\@plus.ac.atl\
+christine.bauer\@plus.ac.at\
 https://christinebauer.eu/
 
 
