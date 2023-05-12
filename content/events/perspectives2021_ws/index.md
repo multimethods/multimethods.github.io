@@ -40,7 +40,7 @@ all_day: true
 publishDate: "2021-09-25T00:00:00Z"
 
 authors: [Eva Zangerle, Christine Bauer, Alain Said]
-tags: [workshop, RecSys]
+tags: [workshop, RecSys, PERSPECTIVES]
 
 # Is this a featured talk? (true/false)
 featured: true
@@ -59,13 +59,6 @@ links:
 #url_slides: ""
 #url_video: ""
 url_proceedings: "http://ceur-ws.org/Vol-2955/"
-
-# Markdown Slides (optional).
-#   Associate this talk with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
-#   Otherwise, set `slides = ""`.
-#slides: example
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.

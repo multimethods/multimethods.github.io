@@ -40,7 +40,7 @@ all_day: true
 publishDate: "2022-04-17T00:00:00Z"
 
 authors: [Eva Zangerle, Christine Bauer, Alain Said]
-tags: [workshop, RecSys]
+tags: [workshop, RecSys, PERSPECTIVES]
 
 # Is this a featured talk? (true/false)
 featured: true
@@ -50,22 +50,16 @@ featured: true
 #  focal_point: Right
 
 links:
-#- icon: acmdl
-#  icon_pack: ai
-#  name: acmdl
-#url: 
+- icon: acmdl
+  icon_pack: ai
+  name: acmdl
+  url: https://doi.org/10.1145/3523227.3547408
 #url_code: ""
 #url_pdf: 
 #url_slides: ""
 #url_video: ""
-#url_proceedings: ""
+url_proceedings: "http://ceur-ws.org/Vol-3228/"
 
-# Markdown Slides (optional).
-#   Associate this talk with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
-#   Otherwise, set `slides = ""`.
-#slides: example
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
@@ -76,3 +70,4 @@ links:
 #- internal-project
 ---
 
+{{< cite page="zangerle-2022-perspectives" view="4" >}}
