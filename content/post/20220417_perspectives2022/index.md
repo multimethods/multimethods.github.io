@@ -19,9 +19,9 @@ profile: false
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
-#image:
+image:
 #  caption: ""
-#  focal_point: "Smart"
+  focal_point: "Smart"
 #  preview_only: false
 #  placement: 300
 ---
