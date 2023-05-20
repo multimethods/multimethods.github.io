@@ -14,7 +14,7 @@ title = "Contact"
 +++
 
 Dr. Christine Bauer\
-University of Salzburg\
+Paris Lodron University Salzburg\
 Faculty of Digital and Analytical Sciences\
 Department of Artificial Intelligence and Human Interfaces\
 christine.bauer\@plus.ac.at\
