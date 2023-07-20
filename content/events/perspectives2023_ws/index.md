@@ -13,12 +13,12 @@ editable: false  # Allow visitors to edit the page? Supported by the Page, Post,
 event: "3rd Workshop: Perspectives on the Evaluation of Recommender Systems (PERSPECTIVES 2023)"
 event_url: "https://perspectives-ws.github.io/2023/"
 
-location: Online and Seattle
+location: Suntec Convention Centre and Online
 address:
 #  street: 450 Serra Mall
  # city: Singapore
- # region: WA
-  #  postcode: '94305'
+ # region: 
+  #  postcode: ''
   country: Singapore
 
 summary: "3rd Workshop: Perspectives on the Evaluation of Recommender Systems (PERSPECTIVES 2023) at RecSys 2023."
@@ -30,7 +30,7 @@ We have a particularly strong commitment to invite and integrate researchers at 
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2023-09-22"
+date: "2023-09-19"
 #date_end: "2022-09-22T00:00:00Z"
 all_day: true
 
@@ -58,12 +58,6 @@ links:
 #url_video: ""
 #url_proceedings: ""
 
-# Markdown Slides (optional).
-#   Associate this talk with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
-#   Otherwise, set `slides = ""`.
-#slides: example
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
