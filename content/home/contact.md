@@ -22,7 +22,7 @@ https://christinebauer.eu/
 
 
 Dr. Eva Zangerle\
-Universität Innsbruck\
+University of Innsbruck\
 Department of Computer Science\
 Databases and Information Systems\
 eva.zangerle\@uibk.ac.at\
