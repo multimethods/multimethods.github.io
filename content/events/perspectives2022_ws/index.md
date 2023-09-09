@@ -58,7 +58,7 @@ links:
 #url_pdf: 
 #url_slides: ""
 #url_video: ""
-url_proceedings: "http://ceur-ws.org/Vol-3228/"
+url_proceedings: "https://ceur-ws.org/Vol-3228/"
 
 
 # Projects (optional).
