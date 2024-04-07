@@ -72,7 +72,7 @@ features:
   privacy_pack:
     enable: false
   repository:
-    url: 'https://multimethods.github.io'
+    url: 'https://github.com/multimethods/multimethods.github.io'
     content_dir: content
     branch: main
   avatar:
