@@ -59,7 +59,7 @@ links:
 #url_slides: ""
 #url_video: ""
 url_proceedings: "https://ceur-ws.org/Vol-3228/"
-
+doi: 10.1145/3523227.3547408
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.

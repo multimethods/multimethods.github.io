@@ -1,5 +1,4 @@
 ---
-# Documentation: https://wowchemy.com/docs/managing-content/
 type: publication
 
 title: Report on the 1st Workshop on the Perspectives on the Evaluation of Recommender Systems (PERSPECTIVES 2021) at RecSys 2021
@@ -25,17 +24,12 @@ image:
   focal_point: ''
   preview_only: false
 
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
+
 projects: []
 publishDate: '2022-02-01T01:13:45.839142Z'
-publication_types:
-- '1'
+publication_types: [report]
+publication: '*ACM SIGIR Forum*'
 abstract: 'Evaluation is a central step when it comes to developing, optimizing, and deploying recommender systems. The PERSPECTIVES 2021 workshop at the 15th ACM Conference on Recommender Systems brought together academia and industry to critically reflect on the evaluation of recommender systems. The primary goal of the workshop was to capture the current state of evaluation from different, and maybe even diverging or contradictory perspectives.'
-publication: '*SIGIR Forum*'
-doi: 10.1145/3527546.3527565
 
+doi: 10.1145/3527546.3527565
 ---

@@ -1,7 +1,8 @@
 # SITE SETUP
-# Guide: https://wowchemy.com/docs/getting-started/
-# Documentation: https://wowchemy.com/docs/
+# Guide: https://docs.hugoblox.com/tutorial/
+# Documentation: https://docs.hugoblox.com/
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
+
 
 # Appearance
 
@@ -10,96 +11,109 @@ day_night: false
 font: native
 font_size: M 
 
-# SEO
 
-site_type: Organization
-local_business_type: ''
-org_name: ''
-description: multimethods.info
-twitter: ''
+# SEO
+marketing:
+  seo:
+    site_type: Organization
+    local_business_type: ''
+    org_name: 'multimethods.info'
+    description: 'Website on the topic multimethods.info'
+    twitter: ''
+  analytics:
+    google_analytics: ''
+    baidu_tongji: ''
+    google_tag_manager: ''
+    microsoft_clarity: ''
+  verification:
+    google: ''
+    baidu: ''
+
 
 # Site header
 
-main_menu:
-  enable: true
-  align: r
-  show_logo: true
-  show_language: false
-  show_day_night: true
-  show_search: false 
-  highlight_active_link: false
+header:
+  navbar:
+    enable: true
+    align: r
+    show_logo: true
+    show_language: false
+    show_day_night: false
+    show_search: true 
+    highlight_active_link: true
+
+
+# Site footer
+footer:
+  copyright:
+    notice: '© {year} multimethods.info. This work is licensed under {license}'
+    license:
+      enable: true
+      allow_derivatives: false
+      share_alike: true
+      allow_commercial: false
+
 
 # Localization
+locale:
+  date_format: 'Jan 2, 2006'
+  time_format: '23:04'
+  address_format: en-us
 
-date_format: 'Jan 2, 2006'
-time_format: '23:04'
-address_format: en-us
 
 # Site features
 
-highlight: false
-math: false
-diagram: false
-privacy_pack: false
-show_related:
-  post: true
-  project: true
-  publication: true
-  talk: true
-reading_time: true
-section_pager: false
-sharing: false 
-copyright_license:
-  enable: false
-  allow_derivatives: false
-  share_alike: true
-  allow_commercial: false
-  notice: 'This work is licensed under {license}'
-plugins_js: []
-avatar:
-  gravatar: false
-  shape: circle
-publications:
-  date_format: January 2006
-  citation_style: apa
-projects:
-  post_view: 2
-  publication_view: 2
-  talk_view: 2
-comments:
-  provider: ''
-  commentable:
-    page: true
-    post: true
-    docs: true
-    project: true
-    publication: true
-    talk: true
-  disqus:
-    shortname: ''
-    show_count: true
-  commento:
-    url: ''
-search:
-  provider: wowchemy
-  algolia:
-    app_id: ''
+features:
+  syntax_highlighter:
+    theme_light: github-light
+    theme_dark: dracula
+  math:
+    enable: false
+  privacy_pack:
+    enable: false
+  repository:
+    url: 'https://multimethods.github.io'
+    content_dir: content
+    branch: main
+  avatar:
+    gravatar: false
+    shape: circle
+  comment:
+    provider: ''
+    disqus:
+      shortname: ''
+      show_count: true
+    commento:
+      url: ''
+    giscus:
+      repo: ''
+      repo_id: ''
+      category: ''
+      category_id: ''
+  search:
+    provider: wowchemy
+    algolia:
+      app_id: ''
+      api_key: ''
+      index_name: ''
+      show_logo: false
+  map:
+    provider: 'mapnik'
     api_key: ''
-    index_name: ''
-    show_logo: false
-map:
-  provider: mapnik
-  api_key: ''
-  zoom: 15
-marketing:
-  google_analytics: ''
-  google_tag_manager: ''
-  google_site_verification: ''
-  baidu_site_verification: ''
-  baidu_tongji: ''
-cms:
-  branch: main
-  local_backend: false
-icon:
-  pack:
-    ai: true
+    zoom: 15
+
+
+# Extensions
+
+extensions:
+  cms:
+    branch: main
+    local_backend: false
+  academicons:
+    enable: true
+
+# Security
+
+security:
+  # Allow frame for embedding speaker notes in slides
+  allow_frame: true

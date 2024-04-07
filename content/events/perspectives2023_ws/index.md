@@ -48,16 +48,16 @@ featured: true
 #  focal_point: Right
 
 links:
-#- icon: acmdl
-#  icon_pack: ai
-#  name: acmdl
-#url: 
+- icon: acmdl
+  icon_pack: ai
+  name: acmdl
+  url: https://doi.org/10.1145/3604915.3608748
 #url_code: ""
 #url_pdf: 
 #url_slides: ""
 #url_video: ""
 url_proceedings: "https://ceur-ws.org/Vol-3476/"
-
+doi: 10.1145/3604915.3608748
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
