@@ -39,7 +39,10 @@ all_day: true
 # Schedule page publish date (NOT talk date).
 publishDate: "2021-09-25T00:00:00Z"
 
-authors: [Eva Zangerle, Christine Bauer, Alain Said]
+authors:
+- Eva Zangerle
+- Alan Said
+- Christine Bauer
 tags: [workshop, RecSys, PERSPECTIVES]
 
 # Is this a featured talk? (true/false)

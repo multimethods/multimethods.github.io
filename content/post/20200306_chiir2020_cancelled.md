@@ -1,17 +1,17 @@
 ---
 title: CHIIR Cancelled 
 date: "2020-03-06T00:00:00Z"
-summary:
+summary: "The planned CHIIR tutorial on multi-method evaluation cannot take place as CHIIR 2020 was cancelled."
 
-authors:
-- Christine Bauer 
+#authors:
+#- Christine Bauer 
 
 tags:
 - tutorial
 - CHIIR
 
 categories:
-- tutorials
+- tutorial
 ---
 
 Unfortunately, CHIIR 2020 was cancelled. So, with it, also the tutorial on multi-method evaluation is cancelled.

@@ -4,14 +4,16 @@
 title: "SI 'Perspectives on Recommender Systems Evaluation' @ TORS"
 subtitle: ""
 summary: "Special Issue 'Perspectives on Recommender Systems Evaluation' in ACM Transactions on Recommender Systems."
-authors: 
-- Christine Bauer 
-categories: special issue
+#authors: 
+#- Christine Bauer 
+categories:
+- special issue
 tags:
 - special issue 
 - recommender systems
 - evaluation
 - CfP
+- TORS
 
 date: 2022-04-24T18:00:06+02:00
 lastmod: 2022-04-24T18:00:06+02:00

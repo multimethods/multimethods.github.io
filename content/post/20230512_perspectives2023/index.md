@@ -2,8 +2,8 @@
 title: "Workshop PERSPECTIVES 2023 @ RecSys 2023"
 subtitle: ""
 summary: "The third edition of the workshop 'Perspectives on the Evaluation of Recommender Systems' (PERSPECTIVES 2023) will take place at RecSys 2023."
-authors: 
-- Christine Bauer 
+#authors: 
+#- Christine Bauer 
 categories:
 - workshop
 tags:
