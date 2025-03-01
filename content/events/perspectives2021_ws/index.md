@@ -33,7 +33,7 @@ We have a particularly strong commitment to invite and integrate researchers at 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: "2021-09-25"
-date_end: "2021-09-30T00:00:00Z"
+date_end: "2021-09-30"
 all_day: true
 
 # Schedule page publish date (NOT talk date).
@@ -44,19 +44,15 @@ authors:
 - Alan Said
 - Christine Bauer
 tags: [workshop, RecSys, PERSPECTIVES]
-
+categories:
+- workshop
 # Is this a featured talk? (true/false)
 featured: true
 
-#image:
+image:
 #  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
-#  focal_point: Right
+  focal_point: Smart
 
-links:
-- icon: acmdl
-  icon_pack: ai
-  name: acmdl
-  url: https://doi.org/10.1145/3460231.3470929
 #url_code: ""
 #url_pdf: 
 #url_slides: ""
@@ -64,16 +60,12 @@ links:
 url_proceedings: "https://ceur-ws.org/Vol-2955/"
 doi: 10.1145/3460231.3470929
 
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
-#projects:
-#- internal-project
+projects: []
 ---
 
 
 {{< gallery album="perspectives2021" >}}
 <br>
+{{< cite page="zangerle-2021-perspectives-ceur" view="4" >}}
 {{< cite page="zangerle-2021-perspectives" view="4" >}}
+{{< cite page="zangerle-2022-sigirforum-perspectives" view="4" >}}

@@ -44,19 +44,21 @@ authors:
 - Christine Bauer
 - Alan Said
 tags: [workshop, RecSys, PERSPECTIVES]
+categories:
+- workshop
 
 # Is this a featured talk? (true/false)
 featured: true
 
-#image:
+image:
 #  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
-#  focal_point: Right
+  focal_point: Smart
 
-links:
-- icon: acmdl
-  icon_pack: ai
-  name: acmdl
-  url: https://doi.org/10.1145/3523227.3547408
+links: 
+- icon: video
+  icon_pack: fas
+  name: Keynote video
+  url: https://youtu.be/ZWZp389Fxis
 #url_code: ""
 #url_pdf: 
 #url_slides: ""
@@ -64,13 +66,14 @@ links:
 url_proceedings: "https://ceur-ws.org/Vol-3228/"
 doi: 10.1145/3523227.3547408
 
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
-#projects:
-#- internal-project
+projects: []
 ---
 
+{{< cite page="zangerle-2022-perspectives-ceur" view="4" >}}
 {{< cite page="zangerle-2022-perspectives" view="4" >}}
+{{< cite page="zangerle-2023-sigirforum-perspectives" view="4" >}}
+
+<br>
+
+**Keynote by Kim Falk: What is the end goal and how do we evaluate it?**
+{{< youtube ZWZp389Fxis >}}

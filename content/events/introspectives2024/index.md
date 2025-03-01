@@ -41,7 +41,7 @@ authors:
 - Eva Zangerle
 tags: [workshop, INTROSPECTIVES, recommender systems, RecSys, reflection, introspection]
 categories:
-  - event
+  - workshop
 
 # Is this a featured talk? (true/false)
 featured: false
@@ -58,6 +58,7 @@ image:
 #url_slides: ""
 #url_video: ""
 #url_proceedings: 
+doi: 10.1145/3640457.3687101
 
 #projects: []
 ---

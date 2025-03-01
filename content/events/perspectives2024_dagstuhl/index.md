@@ -43,6 +43,8 @@ authors:
   - Alan Said
   - Eva Zangerle
 tags: [Dagstuhl, evaluation, recommender systems]
+categories:
+- Dagstuhl
 
 # Is this a featured talk? (true/false)
 featured: true

@@ -10,7 +10,7 @@ profile: false  # Show author profile?
 commentable: false  # Allow visitors to comment? Supported by the Page, Post, and Docs content types.
 editable: false  # Allow visitors to edit the page? Supported by the Page, Post, and Docs content types.
 
-event: "3rd Workshop: Perspectives on the Evaluation of Recommender Systems (PERSPECTIVES 2023)"
+event: "3rd Workshop: Perspectives on the Evaluation of Recommender Systems (PERSPECTIVES 2023), co-located with RecSys 2023"
 event_url: "https://perspectives-ws.github.io/2023/"
 
 location: Suntec Convention Centre and Online
@@ -30,9 +30,9 @@ We have a particularly strong commitment to invite and integrate researchers at 
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2023-09-19"
-#date_end: "2022-09-22T00:00:00Z"
-all_day: true
+date: "2023-09-19T09:00:00" #-05:00"
+date_end: "2023-09-19T12:35:00" #-05:00"
+all_day: false
 
 # Schedule page publish date (NOT talk date).
 publishDate: "2023-05-12T00:00:00Z"
@@ -42,19 +42,16 @@ authors:
 - Eva Zangerle
 - Christine Bauer
 tags: [workshop, RecSys, PERSPECTIVES]
+categories:
+  - workshop
 
 # Is this a featured talk? (true/false)
 featured: true
 
-#image:
+image:
 #  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
-#  focal_point: Right
+  focal_point: Smart
 
-links:
-- icon: acmdl
-  icon_pack: ai
-  name: acmdl
-  url: https://doi.org/10.1145/3604915.3608748
 #url_code: ""
 #url_pdf: 
 #url_slides: ""
@@ -62,11 +59,9 @@ links:
 url_proceedings: "https://ceur-ws.org/Vol-3476/"
 doi: 10.1145/3604915.3608748
 
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
-#projects:
-#- internal-project
+projects: []
 ---
+
+{{< cite page="said-2023-perspectives-ceur" view="4" >}}
+{{< cite page="said-2023-perspectives" view="4" >}}
+{{< cite page="said-2024-sigirforum-perspectives" view="4" >}}
