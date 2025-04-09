@@ -87,7 +87,7 @@ sections:
       title: Contact
       text: |-
         Christine Bauer\
-        Paris Lodron University Salzburg\
+        University of Salzburg\
         Faculty of Digital and Analytical Sciences\
         Department of Artificial Intelligence and Human Interfaces (AIHI)\
         christine.bauer [at] plus.ac.at\
